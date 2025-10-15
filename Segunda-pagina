@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 2</title>
+
+    <link rel="stylesheet" href="../Exercicio2/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Minha página de teste</h1>
+    </header>
+
+    <main>
+        <h2>Dedicação e Diciplina</h2>
+        <br>
+        <div class="container">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eveniet repudiandae tempora dicta eos, culpa excepturi nostrum odit maxime, molestias accusamus ex illum ea laboriosam sed qui quibusdam alias velit.</p>
+            <br>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eveniet repudiandae tempora dicta eos, culpa excepturi nostrum odit maxime, molestias accusamus ex illum ea laboriosam sed qui quibusdam alias velit.</p>
+            <br>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eveniet repudiandae tempora dicta eos, culpa excepturi nostrum odit maxime, molestias accusamus ex illum ea laboriosam sed qui quibusdam alias velit.</p>
+        </div>
+
+        <figure>
+            <div class="imagens">
+                <img src="../Exercicio1/img/css.webp" alt="logo css">
+                
+                <img src="../Exercicio1/img/css.webp" alt="logo css">
+            </div>
+        </figure>
+
+        <div>
+            <h2>Leitura e Pesquisa</h2>
+        <br>
+        <div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eveniet repudiandae tempora dicta eos, culpa excepturi nostrum odit maxime, molestias accusamus ex illum ea laboriosam sed qui quibusdam alias velit.</p>
+            <br>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eveniet repudiandae tempora dicta eos, culpa excepturi nostrum odit maxime, molestias accusamus ex illum ea laboriosam sed qui quibusdam alias velit.</p>
+            <br>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eveniet repudiandae tempora dicta eos, culpa excepturi nostrum odit maxime, molestias accusamus ex illum ea laboriosam sed qui quibusdam alias velit.</p>
+        </div>
+
+        <figure>
+            <div class="imagens">
+                <img src="../Exercicio1/img/css.webp" alt="logo css">
+                
+                <img src="../Exercicio1/img/css.webp" alt="logo css">
+            </div>
+        </figure>
+
+        </div>
+        
+
+    </main>
+
+    <footer>
+        <ul>
+            <div>
+            <li>
+                <strong id="strong">GitHub:</strong><a href="https://github.com/faelasantos"></a>https://github.com/faelasantos
+            </li>
+            <li>
+                <strong id="strong">Linkedin:</strong><a href="https://www.linkedin.com/in/rafaela-santos"></a>https://www.linkedin.com/in/rafaela-santos
+            </li>
+            </div>
+        </ul>
+
+    </footer>
+</body>
+</html>
